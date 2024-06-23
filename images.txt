@@ -1,2 +1,2 @@
-nginx
+registry:2
 --platform=linux/arm64
