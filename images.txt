@@ -1,1 +1,2 @@
-ubuntu
+registry:2
+--platform=linux/arm64
