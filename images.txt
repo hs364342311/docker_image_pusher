@@ -1,1 +1,1 @@
-arm32v7/ubuntu:22.04
+semitechnologies/weaviate:1.25.10
